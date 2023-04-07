@@ -47,7 +47,7 @@ and get easy acces to them in every second.
 gh repo clone SebastianZakrzewski/EmployeeManager-WebApp
 ```
 
-- If you use Docker you can easy change destination to EmployeeManager-WebApp/BackEnd  then type, this should load all application context.
+- If you use Docker you can easy change directory to EmployeeManager-WebApp/BackEnd  then type, this should load all application context.
 
 ```bash
  docker-compose up
