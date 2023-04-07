@@ -1,0 +1,11 @@
+<body style="height:1000px"  [@colorState]="state">
+<app-header (createEmployeeEmitter)="openAddEmployeeModalAndChangeState()"
+            (searchInputEmitter)="pipeValidation($event)"></app-header>
+<div class="container">
+    <app-employee-window
+             (editEmitter)="openEditEmployeeModalAndChangeState()"
+            [searchInput]="inputStringValue"></app-employee-window>
+    <app-avatar></app-avatar>
+</div>
+</body>
+

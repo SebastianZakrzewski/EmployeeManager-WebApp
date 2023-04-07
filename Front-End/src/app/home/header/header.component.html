@@ -1,0 +1,26 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+
+  <a  class="navbar-brand" routerLink="/home">
+    <img src="../../../assets/employee.png" class="d-inline-block lign-bottom" alt="">
+    Employee Manager
+  </a>
+
+  <button class="navbar-toggler" type="button" (click)="toggleNavbar()">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse"
+       [ngClass]="{'show':navbarOpen}">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a (click)="createEmployee()" class="nav-link" routerLink="/home">Add Employee</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="input-bar">
+    <form #search="ngForm" (ngSubmit)="onSubmit(search.value)" class="d-flex" role="search">
+      <input  ngModel [(ngModel)]="searchInput" name="search" #search="ngModel" class="form-control me-2" type="search"  placeholder="Search" aria-label="Search">
+    </form>
+  </div>
+</nav>

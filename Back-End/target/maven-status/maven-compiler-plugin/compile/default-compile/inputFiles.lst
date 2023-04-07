@@ -1,0 +1,12 @@
+/home/sebastian/IdeaProjects/WebApplications/WebAppProjectApiRestCommunication/BackEnd/WebAppBackEnd/src/main/java/com/example/webappbackend/restAPI/RestExceptionHandler.java
+/home/sebastian/IdeaProjects/WebApplications/WebAppProjectApiRestCommunication/BackEnd/WebAppBackEnd/src/main/java/com/example/webappbackend/model/Employee.java
+/home/sebastian/IdeaProjects/WebApplications/WebAppProjectApiRestCommunication/BackEnd/WebAppBackEnd/src/main/java/com/example/webappbackend/configuration/FlyWayMigrationStrategy.java
+/home/sebastian/IdeaProjects/WebApplications/WebAppProjectApiRestCommunication/BackEnd/WebAppBackEnd/src/main/java/com/example/webappbackend/BootstrapData/BootstrapData.java
+/home/sebastian/IdeaProjects/WebApplications/WebAppProjectApiRestCommunication/BackEnd/WebAppBackEnd/src/main/java/com/example/webappbackend/restAPI/EmployeeController.java
+/home/sebastian/IdeaProjects/WebApplications/WebAppProjectApiRestCommunication/BackEnd/WebAppBackEnd/src/main/java/com/example/webappbackend/service/EmployeeService.java
+/home/sebastian/IdeaProjects/WebApplications/WebAppProjectApiRestCommunication/BackEnd/WebAppBackEnd/src/main/java/com/example/webappbackend/restAPI/ErrorHandling/ApiError.java
+/home/sebastian/IdeaProjects/WebApplications/WebAppProjectApiRestCommunication/BackEnd/WebAppBackEnd/src/main/java/com/example/webappbackend/service/EmployeeServiceI.java
+/home/sebastian/IdeaProjects/WebApplications/WebAppProjectApiRestCommunication/BackEnd/WebAppBackEnd/src/main/java/com/example/webappbackend/dao/EmployeeDao.java
+/home/sebastian/IdeaProjects/WebApplications/WebAppProjectApiRestCommunication/BackEnd/WebAppBackEnd/src/main/java/com/example/webappbackend/restAPI/ErrorHandling/ApiSubError.java
+/home/sebastian/IdeaProjects/WebApplications/WebAppProjectApiRestCommunication/BackEnd/WebAppBackEnd/src/main/java/com/example/webappbackend/dao/CrudDao.java
+/home/sebastian/IdeaProjects/WebApplications/WebAppProjectApiRestCommunication/BackEnd/WebAppBackEnd/src/main/java/com/example/webappbackend/WebAppBackEndApplication.java

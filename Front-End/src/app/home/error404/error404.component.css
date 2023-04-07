@@ -1,0 +1,29 @@
+.img {
+    max-width: 100%;
+    height: auto;
+
+}
+
+.navbar-brand {
+    font-size: 10px;
+    padding-left: 10px;
+}
+
+img {
+    height: 40px;
+    margin-right: 5px;
+    padding-left: 10px;
+}
+
+.animated {
+
+}
+
+.d-inline-block {
+    margin-right: 5px;
+}
+
+.input-bar {
+    padding-top: 10px;
+    padding-right: 15px;
+}
